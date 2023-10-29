@@ -1,7 +1,7 @@
 <h1>Cadastro de Usuários</h1>
 
-<img src="/boasVindas.png">
-<img src="/cadastro.png">
+<img src="/front-end/boasVindas.png">
+<img src="/front-end/cadastro.png">
 
 
 <div style="display: inline_block"><br/>
